@@ -7,6 +7,7 @@ A Website to Learn about HTML with inline CSS
 
 
 ---
+
 ## Text Data
 
 ###Title for the Project
@@ -20,4 +21,5 @@ Using Webpage Building to Learn about Building
 
 ### Author
 Ebrar Ejder
+
 ---
