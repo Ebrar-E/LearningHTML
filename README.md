@@ -10,7 +10,7 @@ A Website to Learn about HTML with inline CSS
 
 ## Text Data
 
-###Title for the Project
+### Title for the Project
 Webpage Building
 
 ### 10 Word Summary
